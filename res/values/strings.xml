@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Updater</string>
+	<string name="toast_launch">Init launch complete. Now RECEIVE_BOOT_COMPLETED can be captured.</string>
+    <string name="ntfcn_title_no_disk_space">Disk out of space</string>
+    <string name="ntfcn_content_no_disk_space">Update can\'t be performed due to lack of disk space</string>
+	
+</resources>
